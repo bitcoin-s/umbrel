@@ -4,7 +4,7 @@
 [![Community Chat](https://img.shields.io/badge/community%20chat-telegram-%235351FB)](https://t.me/getumbrel)
 [![Developer Chat](https://img.shields.io/badge/dev%20chat-keybase-%235351FB)](https://keybase.io/team/getumbrel)
 
-[![Twitter](https://img.shields.io/twitter/follow/getumbrel?style=social)](https://twitter.com/getumbrel)
+[![Twitter](https://img.shields.io/twitter/follow/getumbrel?style=social)](https://x.com/getumbrel)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/getumbrel?label=Subscribe%20%2Fr%2Fgetumbrel&style=social)](https://reddit.com/r/getumbrel)
 
 # ☂️ Umbrel — a personal server for everyone
@@ -139,4 +139,4 @@ Umbrel is licensed under the PolyForm Noncommercial 1.0.0 license. TL;DR — You
 
 [![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-%235351FB)](https://github.com/getumbrel/umbrel/blob/master/LICENSE.md)
 
-[getumbrel.com](https://getumbrel.com)
+[umbrel.com](https://umbrel.com)
